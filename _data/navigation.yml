@@ -3,11 +3,14 @@ main:
   - title: "CV"
     url: /cv/
   
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Extracurricular"
+    url: /extracurricular/
 
   #- title: "Talks"
   #  url: /talks/    
@@ -17,6 +20,3 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  #- title: "Guide"
-  #  url: /markdown/
