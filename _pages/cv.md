@@ -61,7 +61,7 @@ Skills
 Achievements
 ======
 * **2022**
-  * Tech Fellow excellence programa @ Fundação Estudar (23 selected from 4285 candidates)
+  * Tech Fellow excellence program @ Fundação Estudar (23 selected from 4285 candidates)
 * **2021**
   * Honorable mention at the international congress SIICUSP. Best research of the section.
 * **2019**
