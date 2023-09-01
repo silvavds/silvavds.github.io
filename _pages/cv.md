@@ -20,18 +20,26 @@ Education
 
 Professional experience
 ======
+## Helean
+* **Data Science Summer Intern**
+  * July 2023 - August 2023
+  * Paris, France
+  * Summer internship
+  * Skills acquired: Knowledge in state-of-the-art time series forecasting technologies, such as NHITS and TiDE.
 * **Data Science Intern**
   * January 2023 - February 2023
   * Paris, France
   * One month internship
   * Skills acquired: Tools to analyse and forecast time series in a startup scenario. Forecasting with traditional methods (such as ARIMA) and deep learning methods (such as TFT).
 
+## Brainly
 * **Physics Tutor**
   * May 2022 - January 2023
   * New York, USA (Remote)
   * Freelancer
   * Skills acquired: Improvement on the knowledge of physics and related fields.
 
+## Petrobras/University of São Paulo
 * **Data Science Researcher**
   * December 2020 - December 2022
   * São Paulo, Brazil
