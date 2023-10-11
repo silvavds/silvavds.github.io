@@ -57,7 +57,7 @@ Projects
 * **Hybrid mobile robot control software with image processing**
   * February 2018 - December 2019
   * Suzano, Brazil
-  * Skills acquired: Signal processing, artificial intelligence, time series analysis and other Data Science related skills.
+  * Skills acquired: Mobile robotics, embedded systems, Raspberry Pi, OpenCV, Computer Aided Design and 3D printing.
 
 Languages
 ======
