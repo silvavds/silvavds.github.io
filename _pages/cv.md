@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="../files/CV_English.pdf" target="_blank" rel="noopener noreferrer">Download English version</a></p>
-<p><a href="../files/CV_Francais.pdf" target="_blank" rel="noopener noreferrer">Télécharger la version française</a></p>
+<p><a href="../files/CV_Francais.pdf" target="_blank" rel="noopener noreferrer">Ouvrir la version française</a></p>
 
 Education
 ======
@@ -39,12 +38,26 @@ Professional experience
   * Freelancer
   * Skills acquired: Improvement on the knowledge of physics and related fields.
 
+Projects
+======
+## CHU de Lille/École Centrale de Lille
+* **Brain damage evaluation on newborns with artificial intelligence**
+  * September 2022 - Current
+  * Lille, France
+  * Skills acquired: Electroencephalogram analysis and artificial intelligence model deployment with REST API.
+
 ## Petrobras/University of São Paulo
-* **Data Science Researcher**
+* **Machine learning systems for digital twins of oil production unities**
   * December 2020 - December 2022
   * São Paulo, Brazil
   * Undergraduate researcher
-  * Skills acquired: Signal processing, artificial intelligence, time series analysis and other Data Science related skills
+  * Skills acquired: Signal processing, artificial intelligence, time series analysis and other Data Science related skills.
+
+## Federal Institute of São Paulo
+* **Hybrid mobile robot control software with image processing**
+  * February 2018 - December 2019
+  * Suzano, Brazil
+  * Skills acquired: Signal processing, artificial intelligence, time series analysis and other Data Science related skills.
 
 Languages
 ======
@@ -54,13 +67,16 @@ Languages
 * **French**
   * Advanced - C1 (TCF Score 560/699)
 
+* **Spanish**
+  * Basic - Currently studying
+
 * **Portuguese**
   * Native language
 
 Skills
 ======
 * **Programming**
-  * Python; Jupyter Notebooks; C/C++; Java; Ladder/Grafcet for PLC; Labview; SQL (currently studying)
+  * Python; Jupyter Notebooks; C/C++; Java; Ladder/Grafcet for PLC; Labview; VHDL; SQL (currently studying)
 * **Soft skills**
   * Team work; Project management; Advanced project planning; Strategic analysis
 * **Miscellaneous**
