@@ -16,6 +16,9 @@ redirect_from:
   * Federal Institute's Laboratory of Robotics
 
 ## Events
+* **2023**
+  * Matlab Expo France
+  * Exotec Hackathon in Robotics
 * **2021**
   * USP International Symposium of Scientific and Technological Initiation
 * **2020**
