@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<p><a href="../files/CV_English.pdf" target="_blank" rel="noopener noreferrer">Open English version</a></p>
 <p><a href="../files/CV_Francais.pdf" target="_blank" rel="noopener noreferrer">Ouvrir la version française</a></p>
 
 Education
