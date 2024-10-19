@@ -16,6 +16,8 @@ redirect_from:
   * Federal Institute's Laboratory of Robotics
 
 ## Events
+* **2024**
+  * Exotec Hackathon in Robotics
 * **2023**
   * Matlab Expo France
   * Exotec Hackathon in Robotics
@@ -30,7 +32,7 @@ redirect_from:
 * **2018**
   * International Masterclass on Particle Physics
 
-## Minicourses
+## Attended minicourses
 * **2021**
   * *ICTP-SAIFR minicourses for high school students (7 hours)*
     * Black holes

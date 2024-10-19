@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vitor Silva / Data Science"
+title                    : "Vitor Silva / Data Engineering"
 title_separator          : "-"
 name                     : &name "Vitor Silva"
 description              : &description "Electrical Engineering undergraduate at University of São Paulo / Multidisciplinary Engineering undergraduate at École Centrale de Lille"
@@ -83,7 +83,7 @@ author:
   name             : "Vitor dos Santos Silva"
   avatar           : "profile.png"
   bio              : "Electrical Engineering undergraduate at University of São Paulo / Multidisciplinary Engineering undergraduate at École Centrale de Lille"
-  location         : "Lille, France"
+  location         : "Paris, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?hl=fr&user=ixQoP50AAAAJ"

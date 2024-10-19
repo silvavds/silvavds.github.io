@@ -9,41 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="../files/CV_English.pdf" target="_blank" rel="noopener noreferrer">Open English version</a></p>
-<p><a href="../files/CV_Francais.pdf" target="_blank" rel="noopener noreferrer">Ouvrir la version française</a></p>
+<p><a href="../files/CV_English_v3.pdf" target="_blank" rel="noopener noreferrer">Download PDF Version</a></p>
 
 Education
 ======
-* **Master in Multidisciplinary Engineering**, École Centrale de Lille, 2022 - 2024
-* **Bachelor in Electrical Engineering**, University of São Paulo, 2020 - 2025
+* **Master (Bac+5) in Multidisciplinary Engineering**, École Centrale de Lille, 2022 - 2024
+* **Bachelor in Electrical Engineering**, University of São Paulo, 2020 - 2026
 * **Technician in Industrial Automation**, Federal Institute of São Paulo, 2017 - 2019
 
 Professional experience
 ======
+## Carrefour Groupe
+* **Data Analyst Intern**
+  * July 2024 - December 2024
+  * Massy, France
+  * Data Analyst Intern
+  * Main skills acquired: BigQuery SQL database management and development of ETL pipelines with data integration from multiple different sources.
+
 ## Helean
-* **Data Science Summer Intern**
+* **Data Summer Intern**
   * July 2023 - August 2023
   * Paris, France
   * Summer internship
-  * Skills acquired: Knowledge in state-of-the-art time series forecasting technologies, such as NHITS and TiDE.
-* **Data Science Intern**
+  * Main skills acquired: Knowledge in state-of-the-art time series forecasting technologies, such as NHITS and TiDE.
+* **Data Winter Intern**
   * January 2023 - February 2023
   * Paris, France
-  * One month internship
-  * Skills acquired: Tools to analyse and forecast time series in a startup scenario. Forecasting with traditional methods (such as ARIMA) and deep learning methods (such as TFT).
+  * Winter internship
+  * Main skills acquired: Tools to analyse and forecast time series in a startup scenario. Forecasting with traditional methods (such as ARIMA) and deep learning methods (such as TFT).
 
 ## Brainly
 * **Physics Tutor**
   * May 2022 - January 2023
   * New York, USA (Remote)
   * Freelancer
-  * Skills acquired: Improvement on the knowledge of physics and related fields.
+  * Main skills acquired: Improvement on the knowledge of physics and related fields.
 
 Projects
 ======
 ## CHU de Lille/École Centrale de Lille
 * **Brain damage evaluation on newborns with artificial intelligence**
-  * September 2022 - Current
+  * September 2022 - January 2024
   * Lille, France
   * Skills acquired: Electroencephalogram analysis and artificial intelligence model deployment with REST API.
 
@@ -60,28 +66,14 @@ Projects
   * Suzano, Brazil
   * Skills acquired: Mobile robotics, embedded systems, Raspberry Pi, OpenCV, Computer Aided Design and 3D printing.
 
-Languages
-======
-* **English**
-  * Advanced - C1 (Cambridge FCE Score 186/190)
-
-* **French**
-  * Advanced - C1 (TCF Score 560/699)
-
-* **Spanish**
-  * Basic - Currently studying
-
-* **Portuguese**
-  * Native language
-
 Skills
 ======
 * **Programming**
-  * Python; Jupyter Notebooks; C/C++; Java; Ladder/Grafcet for PLC; Labview; VHDL; SQL (currently studying)
+  * Python, Jupyter Notebooks, C/C++, Java, Object-oriented programming, Ladder for PLC, Matlab/Simulink, Labview, VHDL, SQL.
 * **Soft skills**
-  * Team work; Project management; Advanced project planning; Strategic analysis
+  * Teamwork, project management, advanced planning and strategic analysis (MOOC Géstion de Projet).
 * **Miscellaneous**
-  * Linux; Raspberry Pi; Matplotlib; Pandas; Docker; git; Kedro; Keras; Tensorflow; PyTorch; OpenCV; Computer Aided Design; 3D Printing; MS Excel; Latex
+  * Linux, Raspberry Pi, Matplotlib, Pandas, Docker, git, Kedro, Keras, TensorFlow, PyTorch, OpenCV, Computer Aided Design, 3D Printing, Excel spreadsheets, Google Cloud Platform, Amazon Web Services, Advanced Google Sheets, LATEX.
 
 Achievements
 ======
@@ -98,3 +90,17 @@ Achievements
   * Federal Institute Tournament of Robotics (2nd place)
   * Brazilian Olympiad of Robotics (3rd place)
   * Federal Institute Congress of Science and Culture (3rd place on engineering)
+
+Languages
+======
+* **English**
+  * Advanced - C1 (Cambridge FCE Score 186/190 - TOEIC Score 990/990)
+
+* **French**
+  * Advanced - C1 (TCF Score 560/699 - DELF)
+
+* **Spanish**
+  * Basic - Currently studying
+
+* **Portuguese**
+  * Native language
