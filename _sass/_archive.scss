@@ -2,6 +2,11 @@
    ARCHIVE
    ========================================================================== */
 
+.layout-fullwide .archive {
+  width: 100%; /* O conteúdo ocupará a largura completa */
+  max-width: none; /* Remove limites de largura, se houver */
+}
+
 .archive {
   margin-bottom: 2em;
 
