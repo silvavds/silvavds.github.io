@@ -11,7 +11,13 @@ layout: default
     {% include breadcrumbs.html %}
   {% endunless %}
 {% endif %}
-
+<style>
+.archive {
+  width: 100%; /* O conteúdo ocupará a largura completa */
+  max-width: none; /* Remove limites de largura, se houver */
+  padding-left: 0;
+}
+</style>
 <div id="main" role="main">
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
